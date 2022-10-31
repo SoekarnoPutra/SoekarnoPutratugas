@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Rudiyanto</title>
+    <title>Soekarno Putra</title>
 </head>
 <body>
     <h1>MATERI HTML DASAR</h1>
